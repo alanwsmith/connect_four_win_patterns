@@ -1,2 +1,8 @@
-# connect_four_win_patterns
-Connect Four Winning Patterns
+# Connect Four Winning Patterns
+
+This is the set of winning positions for
+Connect Four
+
+
+
+
